@@ -4,4 +4,8 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out 
+Welkom op de website van Jochem Pinxteren.
+
+Ik ben journalist, televisiemaker. Ik maak documentaires en reportageserie over uiteenlopende onderwerpen.  Vaak - maar niet altijd - in de Arabische wereld. Ik ben regisseur en eindredacteur en soms doe ik ook zelf camerawerk. 
+
+Mijn volledige cv is op aanvraag beschikbaar.
