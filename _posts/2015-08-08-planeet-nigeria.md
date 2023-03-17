@@ -4,5 +4,5 @@ title: "Planeet Nigeria"
 author: "jochem pinxteren"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: planeet-nigeria-lagos.jpg
 ---
