@@ -2,7 +2,7 @@
 layout: page
 title: Over
 permalink: /about
-image: 
+image: jp-babel.jpg
 ---
 
 Welkom op de website van Jochem Pinxteren.
