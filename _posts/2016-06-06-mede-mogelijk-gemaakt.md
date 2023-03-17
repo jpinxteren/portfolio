@@ -2,7 +2,7 @@
 layout: post
 title: "Mede Mogelijk Gemaakt"
 author: "jochem pinxteren"
-categories: resources
+categories: documentation
 tags: [documentation,sample]
 image: cacao.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Als de Bom Valt"
 author: "jochem pinxteren"
-categories: sample
+categories: documentation
 tags: [sample]
 image: bom-abdullah.jpg
 ---

@@ -11,8 +11,8 @@ menu:
 #- {name: 'Learning Resources', url: 'resources'}
 #- {name: 'Sample Posts',       url: 'sample-posts'}
 #- {name: 'Documentation',      url: 'documentation'}
-- {name: 'Over',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Over mij',              url: 'about'}
+#- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -34,4 +34,4 @@ sharing_button_prompt: 'delen'
 
 related_posts: 'Zie ook...'
 
-post_date_prefix: 'Geschreven op'
+#post_date_prefix: 'Geschreven op'

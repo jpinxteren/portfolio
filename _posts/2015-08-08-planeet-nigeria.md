@@ -2,7 +2,7 @@
 layout: post
 title: "Planeet Nigeria"
 author: "jochem pinxteren"
-categories: facts
+categories: documentation
 tags: [sample]
 image: planeet-nigeria-lagos.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Arabistan"
 author: "jochem pinxteren"
-categories: facts
+categories: documentation
 tags: [sample]
 image: arabistan.jpg
 ---

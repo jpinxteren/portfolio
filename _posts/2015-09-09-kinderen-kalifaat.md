@@ -2,7 +2,7 @@
 layout: post
 title: "De Verloren Kinderen van het Kalifaat"
 author: "jochem pinxteren"
-categories: facts
+categories: documentation
 tags: [sample]
 image: kinderen-kalifaat.jpg
 ---
