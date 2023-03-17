@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: Over
 permalink: /about
+image: 
 ---
 
 Welkom op de website van Jochem Pinxteren.
