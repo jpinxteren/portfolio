@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arabistan"
+title: "Danny in Arabistan"
 author: "jochem pinxteren"
 categories: documentation
 tags: [sample]
