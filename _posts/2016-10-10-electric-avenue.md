@@ -7,7 +7,14 @@ tags: [documentation,sample]
 image: ea-logo.png
 ---
 
-> "in de beste traditie van VPRO-reisreportages" - Parool
+**VPRO - NPO3**
+
+*5 x 30 minuten*
+
+*Regie*
+
+
+> "in de beste traditie van VPRO-reisreportages" - *Parool*
 
 Ooit hadden we dromen en idealen over het nieuwe digitale tijdperk dat ons verlossing zou bieden. Nu de wereld steeds sneller lijkt te veranderen, onderzoeken de makers die beloftes. Is de droom een nachtmerrie geworden?
 

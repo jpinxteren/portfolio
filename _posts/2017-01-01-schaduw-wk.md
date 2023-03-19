@@ -7,6 +7,12 @@ tags: [documentation,sample]
 image: schaduw-wk.jpeg
 ---
 
+**VPRO - NPO2**
+
+*documentaire van 50 minuten, 3 korte reportages*
+
+*Regie*
+
 
 In drie speciale, korte afleveringen en één lange documentaire portretteert Danny Ghosen in Nepal de families van de overleden stadionbouwers. 
 
