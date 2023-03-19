@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "portfolio van jochem pinxteren"
-description:	       "personal website"
-author:              "jochem pinxteren"
+title:		           "jochem pinxteren"
+description:	       "portfolio"
+#author:              "jochem pinxteren"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
