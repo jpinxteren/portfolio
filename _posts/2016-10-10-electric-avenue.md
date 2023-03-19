@@ -21,3 +21,5 @@ Ooit hadden we dromen en idealen over het nieuwe digitale tijdperk dat ons verlo
 
 
 bekijk de serie [hier](https://www.npostart.nl/electric-avenue/VPWON_1344261).
+
+![still uit de aflevering](/assets/img/ea-shotspotter.jpg)

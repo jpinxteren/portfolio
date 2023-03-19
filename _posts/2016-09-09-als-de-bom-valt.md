@@ -20,3 +20,5 @@ Slachtoffers van Nederlandse bombardementen op IS-doelen in Irak voelen zich in 
 Bekijk de documentaire [hier](https://www.npostart.nl/als-de-bom-valt-danny-ghosen-in-irak/21-02-2022/VPWON_1336189).
 
 Lees meer over de slachtoffers van Hawija en andere bombardementen van de Internationale Coalitie in Irak [hier](https://www.vpro.nl/programmas/als-de-bom-valt/overlevers-in-beeld.html).
+
+![Abdullah en zijn zoon bij het graf van zijn familie](/assets/img/bom-graf.jpg)
