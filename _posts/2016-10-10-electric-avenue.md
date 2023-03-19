@@ -11,7 +11,7 @@ image: ea-logo.png
 
 *5 x 30 minuten*
 
-*Regie*
+*Eindredactie*
 
 
 > "in de beste traditie van VPRO-reisreportages" - *Parool*
