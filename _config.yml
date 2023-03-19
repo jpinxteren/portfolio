@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "portfolio"
+title:		           "portfolio van jochem pinxteren"
 description:	       "personal website"
 author:              "jochem pinxteren"
 
