@@ -21,4 +21,4 @@ image: streetlab.jpg
 Doe-het-zelf-televisie waarin sociale experimenten resulteren in bijzonder ongemakkelijke situaties.
 
 
-***Genomineerd voor de Gouden Televizierring 2015***
+***Genomineerd voor de Gouden Televizierring 2015.***

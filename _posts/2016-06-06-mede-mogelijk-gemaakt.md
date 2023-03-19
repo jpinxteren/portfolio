@@ -9,11 +9,9 @@ image: cacao.jpg
 
 **RTLZ - Videoland**
 
-lange documentaire & 6 korte afleveringen
+*lange documentaire & 6 korte afleveringen*
 
-*Regie*
-
-*Camera*
+*Regie & Camera*
 
 *Embedded journalism* over de cacao-industrie.
 
