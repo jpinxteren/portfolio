@@ -21,4 +21,4 @@ Bekijk de documentaire [hier](https://www.npostart.nl/als-de-bom-valt-danny-ghos
 
 Lees meer over de slachtoffers van Hawija en andere bombardementen van de Internationale Coalitie in Irak [hier](https://www.vpro.nl/programmas/als-de-bom-valt/overlevers-in-beeld.html).
 
-![Abdullah en zijn zoon bij het graf van zijn familie](/assets/images/bom-graf.jpg)
+<!--![Abdullah en zijn zoon bij het graf van zijn familie](/assets/images/bom-graf.jpg)-->
