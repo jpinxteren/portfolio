@@ -17,4 +17,4 @@ image: planeet-nigeria-lagos.jpg
 
 Zesdelige reisserie over Nigeria, het land in West-Afrika waar alles groter, gekker en heftiger lijkt. Gepresenteerd door Ikenna Azuike.
 
-![de crew van Planeet NIgeria](/assets/img/planeet-nigeria-crew.jpg)
+![de crew van Planeet NIgeria](/assets/images/planeet-nigeria-crew.jpg)
