@@ -4,7 +4,7 @@ title: "Frontlinie"
 author: "jochem pinxteren"
 categories: documentation
 tags: [documentation,sample]
-image: frontlinie-koerdistan.jpg
+image: frontlinie-koerdistan.jpeg
 ---
 
 **VPRO - NPO2**
