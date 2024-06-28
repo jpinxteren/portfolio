@@ -15,4 +15,4 @@ image: frontlinie-koerdistan.jpeg
 
 Buitenlandprogramma van de VPRO met verhalende journalistiek over ontwikkelingen uit de hele wereld die in ons dagelijks nieuws vaak niet meer dan een voetnoot zijn. Gepresenteerd door Bram Vermeulen.
 
-Bekijk de afeleveringen [hier](https://www.vpro.nl/programmas/frontlinie.html).
+Bekijk de afleveringen [hier](https://www.vpro.nl/programmas/frontlinie.html).
